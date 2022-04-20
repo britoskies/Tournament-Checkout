@@ -1,4 +1,4 @@
-# HMS-Starter
+# Tournament Checkout
 Fortnite Tournament Checkout. Used Paypal API to process the play-in checkout ($10).
 
 ### REQUIREMENTS
